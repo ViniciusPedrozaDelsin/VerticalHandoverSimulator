@@ -11,5 +11,6 @@ Analysis Parameters Implemented in the Simulator:
 RSSI, SNR, Throughput, Bit Error Rate, Forwarding Error Correction, Power Consumption, Monetary Cost.
 
 Calculation Methodology of Network Parameters:
-![image](https://github.com/user-attachments/assets/51e73296-2817-47a5-8ef0-4439b7a550a2)
+![formulas](https://github.com/user-attachments/assets/9667074d-96ef-4872-b8df-9adfa8df225f)
+
 
